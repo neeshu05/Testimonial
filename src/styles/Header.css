@@ -1,0 +1,22 @@
+.Header_container{
+    padding: 10px;
+    padding-bottom: 0px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    height: auto;
+    padding-bottom: 10px;
+    align-items: center;
+    
+}
+.Header_container span{
+    font-size: 50px;
+    background-color: aquamarine;
+    padding: 8px;
+    color: aliceblue;
+    font-weight: bolder;
+    text-transform: uppercase;
+    box-sizing: border-box;
+    box-shadow: 2px 5px #111;
+    text-shadow: 1px 5px green;
+}

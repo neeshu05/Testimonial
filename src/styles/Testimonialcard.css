@@ -1,0 +1,41 @@
+.Testimonialcard_container{
+    box-sizing: content-box;
+    background-color: #f7f7f7;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 20%;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    height: 290px;
+    position: relative;
+}
+.Testimonialcard_container h2{
+    font-weight: 900;
+    margin-bottom: 3px;
+    font-size: 22px;
+    text-align: center;
+}
+.Testimonialcard_container h4{   
+    font-weight: 600;
+    margin-bottom: 10px;
+    font-size: 17px;
+    text-align: center;
+}
+.Testimonialcard_container p{
+    background-color: rgb(190, 249, 249);
+    font-size: 16px;
+    line-height: 1.4;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    border-radius: 30px;
+}
+.Testimonialcard_container .line{
+    width: 100px;
+    height: 2px;
+    text-align: center;
+    position: relative;
+    left: 46.5%;
+    background-color: black;
+}
