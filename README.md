@@ -1,4 +1,4 @@
-![Alt Text](github_project.png)
+![Alt Text](https://github.com/neeshu05/Testimonial/blob/main/github_project.png)
 
 # Getting Started with Create React App
 
